@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Goda</h1>
 <h3 align="center">Software Tester Engineer</h3>
 
-- 1- I’m Software tester working on [Manual project like Etmana E-Commerce Platform](https://mohamedgouda4444-1716919970795.atlassian.net/jira/software/projects/EP/boards/2/timeline)
+- I’m Software tester working on [Manual project like Etmana E-Commerce Platform](https://mohamedgouda4444-1716919970795.atlassian.net/jira/software/projects/EP/boards/2/timeline)
 
-- 4-I’m currently learning **Automation Testing & Performance**
+- I’m currently learning **Automation Testing & Performance**
 
-- 2- Api Testing Using Postman **Booking System & Trello API**
+- Api Testing Using Postman **Booking System & Trello API**
 
-- 3-Automation Testing using Seleinume **Nop-Commerce App**
+- Automation Testing using Seleinume **Nop-Commerce App**
 
-- Softwaer Testing Tools : Trello, JIRA, Google Sheet TestNG Postman , Selenium WebDriver **Java, OOP, DataBases**
+- Softwaer Testing Tools : Trello, JIRA, Google Sheet TestNG Postman API Tool , Selenium WebDriver , TestNG, SoapUI API **Java, OOP, DataBases**
 
 - Connect With me By **mohmedgoda.cs@gmail.com || 201151262346**
 
