@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m Software tester working on [Manual project like Etmana E-Commerce Platform](https://mohamedgouda4444-1716919970795.atlassian.net/jira/software/projects/EP/boards/2/timeline)
+- 1- I’m Software tester working on [Manual project like Etmana E-Commerce Platform](https://mohamedgouda4444-1716919970795.atlassian.net/jira/software/projects/EP/boards/2/timeline)
 
-- 🌱 I’m currently learning **Automation Testing & Performance**
+- 4-I’m currently learning **Automation Testing & Performance**
 
-- Api Testing Using Postman **Booking System & Trello API**
+- 2- Api Testing Using Postman **Booking System & Trello API**
 
-- Automation Testing using Seleinume **Nop-Commerce App**
+- 3-Automation Testing using Seleinume **Nop-Commerce App**
 
-- 💬 Ask me about **Manual Testing , API Testing , Automation**
+- Softwaer Testing Tools : Trello, JIRA, Google Sheet TestNG Postman , Selenium WebDriver **Java, OOP, DataBases**
 
-- 📫 How to reach me **mohmedgoda.cs@gmail.com || 201151262346**
+- Connect With me By **mohmedgoda.cs@gmail.com || 201151262346**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1A1AjHjJST7QBYdv5GMFKwax4FCJmpISR](https://drive.google.com/drive/u/0/folders/1A1AjHjJST7QBYdv5GMFKwax4FCJmpISR)
 
