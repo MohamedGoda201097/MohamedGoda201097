@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Goda</h1>
 <h3 align="center">Software Tester Engineer</h3>
 
--
+
 Software Test Engineer with a strong foundation in manual testing, bug detection, and quality assurance. Possess hands-on expertise in web testing, mobile testing, and API testing. Proficient in collaborative efforts with development teams to guarantee the delivery of top-notch software products
 
   **Manual Testing** : Regression Testing, Exploratory Testing, Test Case Design, Bug Reporting
