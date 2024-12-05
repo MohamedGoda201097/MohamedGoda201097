@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mohamed Goda</h1>
 <h3 align="center">Software Tester Engineer</h3>
 
-- I’m Software tester working on [Manual project like Etmana E-Commerce Platform](https://mohamedgouda4444-1716919970795.atlassian.net/jira/software/projects/EP/boards/2/timeline)
+-
+Software Test Engineer with a strong foundation in manual testing, bug detection, and quality assurance. Possess hands-on expertise in web testing, mobile testing, and API testing. Proficient in collaborative efforts with development teams to guarantee the delivery of top-notch software products
 
-- I’m currently learning **Automation Testing & Performance**
+  **Manual Testing** : Regression Testing, Exploratory Testing, Test Case Design, Bug Reporting
 
-- Api Testing Using Postman **Booking System & Trello API**
+ **Automation Testing** : Selenium WebDriver, TestNG, Data-Driven Testing, POM Design Pattern 
 
-- Automation Testing using Seleinume **Nop-Commerce App**
+ **Performance Testing**  : JMeter
+ 
+**API Testing**: Postman for designing, validating, and executing API tests
 
-- Softwaer Testing Tools : Trello, JIRA, Google Sheet TestNG Postman API Tool , Selenium WebDriver , TestNG, SoapUI API **Java, OOP, DataBases**
+**Softwaer Testing Tools** : Trello, JIRA, Google Sheet TestNG Postman API Tool , Selenium WebDriver , TestNG,  **Java, OOP, DataBases**
 
 - Connect With me By **mohmedgoda.cs@gmail.com || 201151262346**
 
-- My Resume [https://drive.google.com/drive/u/0/folders/1A1AjHjJST7QBYdv5GMFKwax4FCJmpISR](https://drive.google.com/drive/u/0/folders/1A1AjHjJST7QBYdv5GMFKwax4FCJmpISR)
+- My Resume [https://drive.google.com/drive/u/0/folders/1hiGbhr-Qlrz7hJPCyZ2rYhA77cRr_JX-]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
