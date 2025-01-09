@@ -14,7 +14,7 @@ Software Test Engineer with a strong foundation in manual testing, bug detection
 
 **Softwaer Testing Tools** : Trello, JIRA, Google Sheet TestNG Postman API Tool , Selenium WebDriver , TestNG,  **Java, OOP, DataBases**
 
-- Connect With me By **mohmedgoda.cs@gmail.com || 201151262346**
+- Connect With me By **mohamedgoda97.cs@gmail.com || 01010595245 || 201151262346**
 
 - My Resume [https://drive.google.com/drive/u/0/folders/1hiGbhr-Qlrz7hJPCyZ2rYhA77cRr_JX-]
 
